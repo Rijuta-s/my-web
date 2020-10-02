@@ -1,0 +1,31 @@
+ .vertical{
+     border-right-style:inset;
+     border-width: 1px;
+     color:rgb(79, 75, 75);
+     }
+.p{ 
+    text-align: center;
+    font-size: 32px;
+    padding-bottom: 3px;
+    color: rgb(255, 255, 255);
+    
+}
+.img{
+    border-radius: 50%;
+    margin-top:40px;
+    margin-left: 15px;
+}
+.column.is-one-quarter{
+    padding-right: 50px;
+}
+.w{ height:1px;
+    color: black !important;
+    margin: 3px;  
+}
+.column.one{
+    padding-right:15%
+}
+.alternate{
+    background-color: rgb(165, 165, 165) ;
+    color: black;
+}
